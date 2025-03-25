@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Faro - Noticias</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>El Faro</h1>
+        <img src="https://th.bing.com/th/id/OIG1.uVre8HI7LYRLXlZp5rQm?pid=ImgGn.png" alt="Logotipo de El Faro" width="150" height="100">
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#deporte">Deporte</a></li>
+            <li><a href="#negocios">Negocios</a></li>
+        </ul>
+    </nav>
+    
+    <section id="inicio">
+        <h2>Noticias Generales</h2>
+        <table border="1">
+            <tr>
+                <th>Título</th>
+                <th>Categoría</th>
+                <th>Texto</th>
+            </tr>
+            <tr>
+                <td>Descubrimiento arqueológico en el desierto de Atacama</td>
+                <td>General</td>
+                <td>Científicos han hallado restos de una civilización precolombina desconocida, lo que podría reescribir la historia de la región.</td>
+            </tr>
+            <tr>
+                <td>Un cohete de Space X deja una espiral brillante en los cielos de Europa</td>
+                <td>General</td>
+                <td>Una espiral brillante que iluminó los cielos de Europa fue causada por el lanzamiento de un cohete SpaceX desde Cabo Cañaveral. La columna de humo congelado del cohete Falcon 9, al girar en la atmósfera y reflejar la luz solar, creó el fenómeno visual visible durante varios minutos en países como el Reino Unido, Polonia y Croacia.</td>
+            </tr>
+            <tr>
+                <td>Aniversario de "Deadwing" de Porcupine Tree: 20 años del disco que marcó una era del rock progresivo</td>
+                <td>General</td>
+                <td>El 23 de marzo se celebraron los 20 años del lanzamiento de Deadwing, el disco emblemático de Porcupine Tree. Este álbum consolidó a la banda en la escena progresiva, destacándose por su innovador enfoque y complejidad musical, convirtiéndose en un referente para los fans del género.</td>
+            </tr>
+        </table>
+        
+        <h3><h3>Una ESPIRAL LUMINOSA provocada por un cohete de SPACEX se deja ver en el cielo de Croacia</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PA5wr8sAaFM" frameborder="0" allowfullscreen></iframe>
+<p>Tu navegador no soporta videos.</p>
+
+        
+        <h3>Recordamos el lanzamiento de *Deadwing* de Porcupine Tree que se lanzó este día hace 20 años</h3>
+<section>
+    <audio controls>
+        <source src="file:///C:/Users/mecob/Downloads/Start%20Of%20Something%20Beautiful%20(2017%20Remaster).mp3" type="audio/mp3">
+        <p>Tu navegador no soporta audios. Puedes descargar el archivo <a href="ruta/a/tu/archivo.mp3">aquí</a>.</p>
+    </audio>
+</section>
+
+    
+    <section id="deporte">
+        <h2>Noticias de Deporte</h2>
+        <table border="1">
+            <tr>
+                <th>Título</th>
+                <th>Categoría</th>
+                <th>Texto</th>
+            </tr>
+            <tr>
+                <td>Chile se enfrenta a Ecuador en un partido decisivo</td>
+                <td>Fútbol</td>
+                <td>La selección nacional jugará un partido clave en las eliminatorias rumbo al Mundial, buscando asegurar su clasificación.</td>
+            </tr>
+            <tr>
+                <td>Estrella de la NBA firma contrato récord</td>
+                <td>Baloncesto</td>
+                <td>Un reconocido jugador de la NBA ha renovado su contrato por una cifra histórica, consolidando su futuro en la liga.</td>
+            </tr>
+            <tr>
+                <td>Joven promesa del tenis chileno avanza en torneo internacional</td>
+                <td>Tenis</td>
+                <td>Un tenista de 18 años ha logrado una importante victoria en un torneo ATP, generando expectativas sobre su futuro en el deporte.</td>
+            </tr>
+        </table>
+    </section>
+    
+    <section id="negocios">
+        <h2>Noticias de Negocios</h2>
+        <table border="1">
+            <tr>
+                <th>Título</th>
+                <th>Categoría</th>
+                <th>Texto</th>
+            </tr>
+            <tr>
+                <td>Startup chilena revoluciona la energía solar</td>
+                <td>Emprendimiento</td>
+                <td>Una empresa emergente ha desarrollado paneles solares de bajo costo con materiales reciclables, ofreciendo una alternativa ecológica y accesible.</td>
+            </tr>
+            <tr>
+                <td>El dólar alcanza su nivel más alto en 5 años</td>
+                <td>Finanzas</td>
+                <td>La moneda estadounidense experimentó un alza significativa debido a la incertidumbre en los mercados internacionales y cambios en las tasas de interés.</td>
+            </tr>
+            <tr>
+                <td>Supermercados anuncian descuentos masivos en productos básicos</td>
+                <td>Mercado</td>
+                <td>Ante la inflación, las principales cadenas han lanzado promociones especiales en alimentos y artículos de primera necesidad para aliviar el bolsillo de los consumidores.</td>
+            </tr>
+        </table>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 El Faro - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
